@@ -1,1 +1,2 @@
-# curso_eng_dados
+# Trilhando Caminhos em Ciência de Dados
+
